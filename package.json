@@ -1,0 +1,25 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "'Simple ToDo List'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PratikSutar97/ToDo_List.git"
+  },
+  "author": "Pratik Sutar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PratikSutar97/ToDo_List/issues"
+  },
+  "homepage": "https://github.com/PratikSutar97/ToDo_List#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.5"
+  }
+}
